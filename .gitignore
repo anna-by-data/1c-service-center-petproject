@@ -1,0 +1,22 @@
+# 1C:Enterprise temporary files
+*.cfu
+*.dt
+*.1cd
+*.log
+*.pfl
+*.pfs
+
+# 1C cache and temp folders
+/Cache/
+/Temp/
+/bin/
+
+# IDE / editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
